@@ -1,1 +1,3 @@
-# This is the repo for the Rubik Table MRPP algorithm. Readme will be updated when I have time
+# This is the repo for the Rubik Table MRPP algorithm.
+
+https://arxiv.org/pdf/2408.05385
