@@ -5,7 +5,7 @@ This repository contains an implementation of the Rubik Table algorithm for Mult
 Grid Graphs in Low Polynomial Time"](https://arxiv.org/pdf/2408.05385).
 
 ## Overview
-The Rubik Table MRPP algorithm provides an efficient solution for coordinating multiple robots in a shared workspace while avoiding collisions and minimizing travel time. This approach utilizes a table-driven methodology inspired by the mechanics of Rubik's Cube to generate and optimize paths for multiple robots simultaneously.
+The Rubik Table MRPP algorithm provides a constant time-optimal solution for coordinating multiple robots on grids.
 
 ## Features
 - Constant factor time-optimal multi-robot path planning with collision avoidance on grids
