@@ -25,3 +25,4 @@ cd rubik-table-mrpp
 ### Libraries
 - ortools (C++)
 - boost
+- Grubi
