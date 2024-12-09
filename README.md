@@ -9,6 +9,8 @@ The Rubik Table MRPP algorithm provides a constant time-optimal solution for coo
 
 ## Features
 - Constant factor time-optimal multi-robot path planning with collision avoidance on grids
+- Problem generator that generates problem instances
+- Python visualizer 
 
 
 ## Installation
