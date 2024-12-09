@@ -1,7 +1,7 @@
 # Rubik Table MRPP Algorithm
 
 ## Introduction
-This repository contains an implementation of the Rubik Table algorithm for Multi-Robot Path Planning (MRPP). The algorithm is based on the research paper ["Expected 1.x Makespan-Optimal Multi-Agent Path Finding on
+This repository contains both python and c++ implementations of the Rubik Table algorithm for Multi-Robot Path Planning (MRPP). The algorithm is based on the research paper ["Expected 1.x Makespan-Optimal Multi-Agent Path Finding on
 Grid Graphs in Low Polynomial Time"](https://arxiv.org/pdf/2408.05385).
 ![](./rubik.png)
 ## Overview
