@@ -16,7 +16,6 @@ The Rubik Table MRPP algorithm provides a constant time-optimal solution for coo
 git clone https://github.com/yourusername/rubik-table-mrpp.git
 cd rubik-table-mrpp
 
-## Dependencies
 
 ### Languages
 - Python
