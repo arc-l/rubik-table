@@ -1,0 +1,2406 @@
+agents:
+- goal:
+  - 6
+  - 19
+  group_id: 2
+  name: agent0
+  start:
+  - 22
+  - 14
+- goal:
+  - 23
+  - 7
+  group_id: 0
+  name: agent1
+  start:
+  - 11
+  - 2
+- goal:
+  - 11
+  - 13
+  group_id: 1
+  name: agent2
+  start:
+  - 4
+  - 20
+- goal:
+  - 21
+  - 21
+  group_id: 3
+  name: agent3
+  start:
+  - 15
+  - 16
+- goal:
+  - 25
+  - 28
+  group_id: 3
+  name: agent4
+  start:
+  - 21
+  - 27
+- goal:
+  - 1
+  - 20
+  group_id: 2
+  name: agent5
+  start:
+  - 26
+  - 9
+- goal:
+  - 22
+  - 4
+  group_id: 0
+  name: agent6
+  start:
+  - 2
+  - 5
+- goal:
+  - 9
+  - 19
+  group_id: 2
+  name: agent7
+  start:
+  - 26
+  - 8
+- goal:
+  - 22
+  - 11
+  group_id: 0
+  name: agent8
+  start:
+  - 8
+  - 2
+- goal:
+  - 2
+  - 3
+  group_id: 1
+  name: agent9
+  start:
+  - 11
+  - 16
+- goal:
+  - 22
+  - 19
+  group_id: 3
+  name: agent10
+  start:
+  - 23
+  - 15
+- goal:
+  - 27
+  - 17
+  group_id: 3
+  name: agent11
+  start:
+  - 25
+  - 22
+- goal:
+  - 17
+  - 25
+  group_id: 3
+  name: agent12
+  start:
+  - 27
+  - 17
+- goal:
+  - 19
+  - 13
+  group_id: 0
+  name: agent13
+  start:
+  - 0
+  - 1
+- goal:
+  - 3
+  - 17
+  group_id: 2
+  name: agent14
+  start:
+  - 17
+  - 0
+- goal:
+  - 26
+  - 17
+  group_id: 3
+  name: agent15
+  start:
+  - 27
+  - 18
+- goal:
+  - 1
+  - 5
+  group_id: 1
+  name: agent16
+  start:
+  - 13
+  - 23
+- goal:
+  - 11
+  - 22
+  group_id: 2
+  name: agent17
+  start:
+  - 17
+  - 5
+- goal:
+  - 3
+  - 7
+  group_id: 1
+  name: agent18
+  start:
+  - 12
+  - 20
+- goal:
+  - 10
+  - 26
+  group_id: 2
+  name: agent19
+  start:
+  - 24
+  - 4
+- goal:
+  - 4
+  - 4
+  group_id: 1
+  name: agent20
+  start:
+  - 1
+  - 25
+- goal:
+  - 19
+  - 19
+  group_id: 3
+  name: agent21
+  start:
+  - 24
+  - 28
+- goal:
+  - 4
+  - 13
+  group_id: 1
+  name: agent22
+  start:
+  - 13
+  - 17
+- goal:
+  - 12
+  - 21
+  group_id: 2
+  name: agent23
+  start:
+  - 18
+  - 0
+- goal:
+  - 12
+  - 7
+  group_id: 1
+  name: agent24
+  start:
+  - 8
+  - 23
+- goal:
+  - 20
+  - 8
+  group_id: 0
+  name: agent25
+  start:
+  - 4
+  - 8
+- goal:
+  - 28
+  - 2
+  group_id: 0
+  name: agent26
+  start:
+  - 4
+  - 4
+- goal:
+  - 8
+  - 2
+  group_id: 1
+  name: agent27
+  start:
+  - 5
+  - 26
+- goal:
+  - 12
+  - 26
+  group_id: 2
+  name: agent28
+  start:
+  - 29
+  - 3
+- goal:
+  - 26
+  - 12
+  group_id: 0
+  name: agent29
+  start:
+  - 11
+  - 9
+- goal:
+  - 5
+  - 12
+  group_id: 1
+  name: agent30
+  start:
+  - 1
+  - 19
+- goal:
+  - 24
+  - 11
+  group_id: 0
+  name: agent31
+  start:
+  - 14
+  - 12
+- goal:
+  - 21
+  - 20
+  group_id: 3
+  name: agent32
+  start:
+  - 29
+  - 17
+- goal:
+  - 5
+  - 3
+  group_id: 1
+  name: agent33
+  start:
+  - 6
+  - 29
+- goal:
+  - 8
+  - 16
+  group_id: 2
+  name: agent34
+  start:
+  - 29
+  - 13
+- goal:
+  - 26
+  - 7
+  group_id: 0
+  name: agent35
+  start:
+  - 1
+  - 13
+- goal:
+  - 11
+  - 17
+  group_id: 2
+  name: agent36
+  start:
+  - 19
+  - 12
+- goal:
+  - 26
+  - 19
+  group_id: 3
+  name: agent37
+  start:
+  - 19
+  - 23
+- goal:
+  - 9
+  - 1
+  group_id: 1
+  name: agent38
+  start:
+  - 13
+  - 22
+- goal:
+  - 26
+  - 28
+  group_id: 3
+  name: agent39
+  start:
+  - 16
+  - 18
+- goal:
+  - 11
+  - 7
+  group_id: 1
+  name: agent40
+  start:
+  - 8
+  - 29
+- goal:
+  - 9
+  - 5
+  group_id: 1
+  name: agent41
+  start:
+  - 7
+  - 27
+- goal:
+  - 16
+  - 2
+  group_id: 0
+  name: agent42
+  start:
+  - 8
+  - 10
+- goal:
+  - 11
+  - 23
+  group_id: 2
+  name: agent43
+  start:
+  - 21
+  - 7
+- goal:
+  - 28
+  - 15
+  group_id: 3
+  name: agent44
+  start:
+  - 15
+  - 20
+- goal:
+  - 15
+  - 9
+  group_id: 0
+  name: agent45
+  start:
+  - 5
+  - 12
+- goal:
+  - 19
+  - 0
+  group_id: 0
+  name: agent46
+  start:
+  - 6
+  - 10
+- goal:
+  - 24
+  - 19
+  group_id: 3
+  name: agent47
+  start:
+  - 17
+  - 29
+- goal:
+  - 10
+  - 29
+  group_id: 2
+  name: agent48
+  start:
+  - 16
+  - 12
+- goal:
+  - 6
+  - 16
+  group_id: 2
+  name: agent49
+  start:
+  - 23
+  - 3
+- goal:
+  - 10
+  - 1
+  group_id: 1
+  name: agent50
+  start:
+  - 3
+  - 20
+- goal:
+  - 9
+  - 4
+  group_id: 1
+  name: agent51
+  start:
+  - 0
+  - 26
+- goal:
+  - 3
+  - 10
+  group_id: 1
+  name: agent52
+  start:
+  - 0
+  - 20
+- goal:
+  - 14
+  - 8
+  group_id: 1
+  name: agent53
+  start:
+  - 13
+  - 15
+- goal:
+  - 27
+  - 25
+  group_id: 3
+  name: agent54
+  start:
+  - 21
+  - 20
+- goal:
+  - 1
+  - 21
+  group_id: 2
+  name: agent55
+  start:
+  - 17
+  - 14
+- goal:
+  - 18
+  - 1
+  group_id: 0
+  name: agent56
+  start:
+  - 1
+  - 12
+- goal:
+  - 7
+  - 25
+  group_id: 2
+  name: agent57
+  start:
+  - 27
+  - 6
+- goal:
+  - 0
+  - 22
+  group_id: 2
+  name: agent58
+  start:
+  - 29
+  - 12
+- goal:
+  - 26
+  - 4
+  group_id: 0
+  name: agent59
+  start:
+  - 3
+  - 0
+- goal:
+  - 10
+  - 13
+  group_id: 1
+  name: agent60
+  start:
+  - 3
+  - 27
+- goal:
+  - 6
+  - 9
+  group_id: 1
+  name: agent61
+  start:
+  - 9
+  - 22
+- goal:
+  - 28
+  - 4
+  group_id: 0
+  name: agent62
+  start:
+  - 13
+  - 0
+- goal:
+  - 13
+  - 0
+  group_id: 1
+  name: agent63
+  start:
+  - 2
+  - 22
+- goal:
+  - 1
+  - 23
+  group_id: 2
+  name: agent64
+  start:
+  - 21
+  - 14
+- goal:
+  - 4
+  - 0
+  group_id: 1
+  name: agent65
+  start:
+  - 11
+  - 22
+- goal:
+  - 7
+  - 14
+  group_id: 1
+  name: agent66
+  start:
+  - 10
+  - 21
+- goal:
+  - 23
+  - 17
+  group_id: 3
+  name: agent67
+  start:
+  - 20
+  - 23
+- goal:
+  - 24
+  - 23
+  group_id: 3
+  name: agent68
+  start:
+  - 23
+  - 18
+- goal:
+  - 29
+  - 16
+  group_id: 3
+  name: agent69
+  start:
+  - 19
+  - 28
+- goal:
+  - 19
+  - 11
+  group_id: 0
+  name: agent70
+  start:
+  - 6
+  - 1
+- goal:
+  - 19
+  - 3
+  group_id: 0
+  name: agent71
+  start:
+  - 9
+  - 4
+- goal:
+  - 6
+  - 29
+  group_id: 2
+  name: agent72
+  start:
+  - 16
+  - 10
+- goal:
+  - 13
+  - 5
+  group_id: 1
+  name: agent73
+  start:
+  - 5
+  - 23
+- goal:
+  - 7
+  - 20
+  group_id: 2
+  name: agent74
+  start:
+  - 20
+  - 0
+- goal:
+  - 3
+  - 24
+  group_id: 2
+  name: agent75
+  start:
+  - 18
+  - 14
+- goal:
+  - 7
+  - 8
+  group_id: 1
+  name: agent76
+  start:
+  - 1
+  - 20
+- goal:
+  - 10
+  - 23
+  group_id: 2
+  name: agent77
+  start:
+  - 25
+  - 9
+- goal:
+  - 20
+  - 9
+  group_id: 0
+  name: agent78
+  start:
+  - 0
+  - 4
+- goal:
+  - 7
+  - 22
+  group_id: 2
+  name: agent79
+  start:
+  - 18
+  - 6
+- goal:
+  - 11
+  - 19
+  group_id: 2
+  name: agent80
+  start:
+  - 23
+  - 11
+- goal:
+  - 16
+  - 28
+  group_id: 3
+  name: agent81
+  start:
+  - 21
+  - 24
+- goal:
+  - 0
+  - 27
+  group_id: 2
+  name: agent82
+  start:
+  - 19
+  - 7
+- goal:
+  - 17
+  - 19
+  group_id: 3
+  name: agent83
+  start:
+  - 21
+  - 23
+- goal:
+  - 7
+  - 0
+  group_id: 1
+  name: agent84
+  start:
+  - 9
+  - 29
+- goal:
+  - 1
+  - 17
+  group_id: 2
+  name: agent85
+  start:
+  - 29
+  - 4
+- goal:
+  - 23
+  - 9
+  group_id: 0
+  name: agent86
+  start:
+  - 9
+  - 2
+- goal:
+  - 2
+  - 14
+  group_id: 1
+  name: agent87
+  start:
+  - 7
+  - 15
+- goal:
+  - 24
+  - 9
+  group_id: 0
+  name: agent88
+  start:
+  - 0
+  - 7
+- goal:
+  - 16
+  - 8
+  group_id: 0
+  name: agent89
+  start:
+  - 1
+  - 8
+- goal:
+  - 7
+  - 3
+  group_id: 1
+  name: agent90
+  start:
+  - 13
+  - 29
+- goal:
+  - 13
+  - 16
+  group_id: 2
+  name: agent91
+  start:
+  - 19
+  - 13
+- goal:
+  - 7
+  - 19
+  group_id: 2
+  name: agent92
+  start:
+  - 27
+  - 11
+- goal:
+  - 12
+  - 1
+  group_id: 1
+  name: agent93
+  start:
+  - 4
+  - 27
+- goal:
+  - 8
+  - 25
+  group_id: 2
+  name: agent94
+  start:
+  - 16
+  - 3
+- goal:
+  - 6
+  - 27
+  group_id: 2
+  name: agent95
+  start:
+  - 26
+  - 12
+- goal:
+  - 15
+  - 22
+  group_id: 3
+  name: agent96
+  start:
+  - 26
+  - 22
+- goal:
+  - 17
+  - 1
+  group_id: 0
+  name: agent97
+  start:
+  - 2
+  - 14
+- goal:
+  - 11
+  - 9
+  group_id: 1
+  name: agent98
+  start:
+  - 3
+  - 21
+- goal:
+  - 19
+  - 7
+  group_id: 0
+  name: agent99
+  start:
+  - 11
+  - 10
+- goal:
+  - 1
+  - 28
+  group_id: 2
+  name: agent100
+  start:
+  - 28
+  - 9
+- goal:
+  - 0
+  - 6
+  group_id: 1
+  name: agent101
+  start:
+  - 12
+  - 24
+- goal:
+  - 25
+  - 12
+  group_id: 0
+  name: agent102
+  start:
+  - 14
+  - 2
+- goal:
+  - 10
+  - 14
+  group_id: 1
+  name: agent103
+  start:
+  - 7
+  - 26
+- goal:
+  - 6
+  - 7
+  group_id: 1
+  name: agent104
+  start:
+  - 0
+  - 15
+- goal:
+  - 27
+  - 7
+  group_id: 0
+  name: agent105
+  start:
+  - 5
+  - 10
+- goal:
+  - 22
+  - 7
+  group_id: 0
+  name: agent106
+  start:
+  - 13
+  - 9
+- goal:
+  - 1
+  - 3
+  group_id: 1
+  name: agent107
+  start:
+  - 4
+  - 22
+- goal:
+  - 8
+  - 11
+  group_id: 1
+  name: agent108
+  start:
+  - 14
+  - 20
+- goal:
+  - 26
+  - 20
+  group_id: 3
+  name: agent109
+  start:
+  - 29
+  - 29
+- goal:
+  - 19
+  - 23
+  group_id: 3
+  name: agent110
+  start:
+  - 18
+  - 29
+- goal:
+  - 14
+  - 26
+  group_id: 2
+  name: agent111
+  start:
+  - 15
+  - 11
+- goal:
+  - 27
+  - 23
+  group_id: 3
+  name: agent112
+  start:
+  - 22
+  - 19
+- goal:
+  - 21
+  - 12
+  group_id: 0
+  name: agent113
+  start:
+  - 1
+  - 3
+- goal:
+  - 1
+  - 6
+  group_id: 1
+  name: agent114
+  start:
+  - 0
+  - 29
+- goal:
+  - 18
+  - 25
+  group_id: 3
+  name: agent115
+  start:
+  - 19
+  - 26
+- goal:
+  - 15
+  - 27
+  group_id: 3
+  name: agent116
+  start:
+  - 23
+  - 16
+- goal:
+  - 27
+  - 20
+  group_id: 3
+  name: agent117
+  start:
+  - 25
+  - 16
+- goal:
+  - 14
+  - 7
+  group_id: 1
+  name: agent118
+  start:
+  - 2
+  - 27
+- goal:
+  - 26
+  - 6
+  group_id: 0
+  name: agent119
+  start:
+  - 4
+  - 0
+- goal:
+  - 21
+  - 5
+  group_id: 0
+  name: agent120
+  start:
+  - 10
+  - 9
+- goal:
+  - 14
+  - 18
+  group_id: 2
+  name: agent121
+  start:
+  - 18
+  - 1
+- goal:
+  - 22
+  - 6
+  group_id: 0
+  name: agent122
+  start:
+  - 9
+  - 12
+- goal:
+  - 20
+  - 5
+  group_id: 0
+  name: agent123
+  start:
+  - 6
+  - 13
+- goal:
+  - 12
+  - 15
+  group_id: 2
+  name: agent124
+  start:
+  - 22
+  - 0
+- goal:
+  - 0
+  - 17
+  group_id: 2
+  name: agent125
+  start:
+  - 28
+  - 7
+- goal:
+  - 17
+  - 17
+  group_id: 3
+  name: agent126
+  start:
+  - 21
+  - 22
+- goal:
+  - 23
+  - 1
+  group_id: 0
+  name: agent127
+  start:
+  - 6
+  - 12
+- goal:
+  - 28
+  - 11
+  group_id: 0
+  name: agent128
+  start:
+  - 7
+  - 4
+- goal:
+  - 12
+  - 3
+  group_id: 1
+  name: agent129
+  start:
+  - 7
+  - 19
+- goal:
+  - 5
+  - 15
+  group_id: 2
+  name: agent130
+  start:
+  - 21
+  - 1
+- goal:
+  - 24
+  - 2
+  group_id: 0
+  name: agent131
+  start:
+  - 13
+  - 13
+- goal:
+  - 27
+  - 28
+  group_id: 3
+  name: agent132
+  start:
+  - 19
+  - 24
+- goal:
+  - 11
+  - 25
+  group_id: 2
+  name: agent133
+  start:
+  - 28
+  - 2
+- goal:
+  - 19
+  - 17
+  group_id: 3
+  name: agent134
+  start:
+  - 18
+  - 25
+- goal:
+  - 16
+  - 5
+  group_id: 0
+  name: agent135
+  start:
+  - 1
+  - 10
+- goal:
+  - 15
+  - 14
+  group_id: 0
+  name: agent136
+  start:
+  - 1
+  - 11
+- goal:
+  - 23
+  - 13
+  group_id: 0
+  name: agent137
+  start:
+  - 11
+  - 14
+- goal:
+  - 8
+  - 13
+  group_id: 1
+  name: agent138
+  start:
+  - 6
+  - 16
+- goal:
+  - 27
+  - 1
+  group_id: 0
+  name: agent139
+  start:
+  - 5
+  - 5
+- goal:
+  - 14
+  - 5
+  group_id: 1
+  name: agent140
+  start:
+  - 9
+  - 24
+- goal:
+  - 7
+  - 16
+  group_id: 2
+  name: agent141
+  start:
+  - 29
+  - 1
+- goal:
+  - 13
+  - 13
+  group_id: 1
+  name: agent142
+  start:
+  - 8
+  - 26
+- goal:
+  - 15
+  - 20
+  group_id: 3
+  name: agent143
+  start:
+  - 28
+  - 20
+- goal:
+  - 28
+  - 21
+  group_id: 3
+  name: agent144
+  start:
+  - 16
+  - 19
+- goal:
+  - 21
+  - 25
+  group_id: 3
+  name: agent145
+  start:
+  - 16
+  - 16
+- goal:
+  - 9
+  - 11
+  group_id: 1
+  name: agent146
+  start:
+  - 7
+  - 22
+- goal:
+  - 8
+  - 23
+  group_id: 2
+  name: agent147
+  start:
+  - 21
+  - 0
+- goal:
+  - 2
+  - 9
+  group_id: 1
+  name: agent148
+  start:
+  - 12
+  - 23
+- goal:
+  - 1
+  - 0
+  group_id: 1
+  name: agent149
+  start:
+  - 0
+  - 21
+- goal:
+  - 15
+  - 18
+  group_id: 3
+  name: agent150
+  start:
+  - 23
+  - 29
+- goal:
+  - 8
+  - 24
+  group_id: 2
+  name: agent151
+  start:
+  - 15
+  - 7
+- goal:
+  - 0
+  - 25
+  group_id: 2
+  name: agent152
+  start:
+  - 19
+  - 6
+- goal:
+  - 24
+  - 4
+  group_id: 0
+  name: agent153
+  start:
+  - 1
+  - 2
+- goal:
+  - 25
+  - 1
+  group_id: 0
+  name: agent154
+  start:
+  - 12
+  - 9
+- goal:
+  - 23
+  - 14
+  group_id: 0
+  name: agent155
+  start:
+  - 8
+  - 3
+- goal:
+  - 14
+  - 22
+  group_id: 2
+  name: agent156
+  start:
+  - 24
+  - 8
+- goal:
+  - 25
+  - 5
+  group_id: 0
+  name: agent157
+  start:
+  - 9
+  - 14
+- goal:
+  - 2
+  - 10
+  group_id: 1
+  name: agent158
+  start:
+  - 2
+  - 16
+- goal:
+  - 15
+  - 7
+  group_id: 0
+  name: agent159
+  start:
+  - 9
+  - 3
+- goal:
+  - 16
+  - 26
+  group_id: 3
+  name: agent160
+  start:
+  - 29
+  - 23
+- goal:
+  - 9
+  - 15
+  group_id: 2
+  name: agent161
+  start:
+  - 25
+  - 12
+- goal:
+  - 9
+  - 17
+  group_id: 2
+  name: agent162
+  start:
+  - 22
+  - 9
+- goal:
+  - 1
+  - 18
+  group_id: 2
+  name: agent163
+  start:
+  - 24
+  - 2
+- goal:
+  - 4
+  - 26
+  group_id: 2
+  name: agent164
+  start:
+  - 15
+  - 5
+- goal:
+  - 14
+  - 2
+  group_id: 1
+  name: agent165
+  start:
+  - 3
+  - 25
+- goal:
+  - 6
+  - 3
+  group_id: 1
+  name: agent166
+  start:
+  - 11
+  - 28
+- goal:
+  - 8
+  - 8
+  group_id: 1
+  name: agent167
+  start:
+  - 7
+  - 18
+- goal:
+  - 0
+  - 18
+  group_id: 2
+  name: agent168
+  start:
+  - 19
+  - 4
+- goal:
+  - 12
+  - 10
+  group_id: 1
+  name: agent169
+  start:
+  - 0
+  - 25
+- goal:
+  - 16
+  - 3
+  group_id: 0
+  name: agent170
+  start:
+  - 2
+  - 11
+- goal:
+  - 18
+  - 0
+  group_id: 0
+  name: agent171
+  start:
+  - 14
+  - 10
+- goal:
+  - 28
+  - 25
+  group_id: 3
+  name: agent172
+  start:
+  - 23
+  - 26
+- goal:
+  - 16
+  - 16
+  group_id: 3
+  name: agent173
+  start:
+  - 27
+  - 21
+- goal:
+  - 18
+  - 9
+  group_id: 0
+  name: agent174
+  start:
+  - 10
+  - 6
+- goal:
+  - 7
+  - 27
+  group_id: 2
+  name: agent175
+  start:
+  - 18
+  - 10
+- goal:
+  - 6
+  - 21
+  group_id: 2
+  name: agent176
+  start:
+  - 15
+  - 2
+- goal:
+  - 10
+  - 24
+  group_id: 2
+  name: agent177
+  start:
+  - 17
+  - 12
+- goal:
+  - 19
+  - 22
+  group_id: 3
+  name: agent178
+  start:
+  - 15
+  - 21
+- goal:
+  - 1
+  - 27
+  group_id: 2
+  name: agent179
+  start:
+  - 21
+  - 5
+- goal:
+  - 17
+  - 12
+  group_id: 0
+  name: agent180
+  start:
+  - 10
+  - 2
+- goal:
+  - 4
+  - 1
+  group_id: 1
+  name: agent181
+  start:
+  - 11
+  - 15
+- goal:
+  - 2
+  - 25
+  group_id: 2
+  name: agent182
+  start:
+  - 19
+  - 5
+- goal:
+  - 17
+  - 2
+  group_id: 0
+  name: agent183
+  start:
+  - 8
+  - 8
+- goal:
+  - 14
+  - 10
+  group_id: 1
+  name: agent184
+  start:
+  - 11
+  - 25
+- goal:
+  - 21
+  - 1
+  group_id: 0
+  name: agent185
+  start:
+  - 14
+  - 6
+- goal:
+  - 11
+  - 0
+  group_id: 1
+  name: agent186
+  start:
+  - 10
+  - 18
+- goal:
+  - 25
+  - 24
+  group_id: 3
+  name: agent187
+  start:
+  - 24
+  - 24
+- goal:
+  - 10
+  - 6
+  group_id: 1
+  name: agent188
+  start:
+  - 2
+  - 15
+- goal:
+  - 29
+  - 5
+  group_id: 0
+  name: agent189
+  start:
+  - 4
+  - 10
+- goal:
+  - 20
+  - 18
+  group_id: 3
+  name: agent190
+  start:
+  - 25
+  - 17
+- goal:
+  - 27
+  - 3
+  group_id: 0
+  name: agent191
+  start:
+  - 4
+  - 2
+- goal:
+  - 12
+  - 14
+  group_id: 1
+  name: agent192
+  start:
+  - 14
+  - 16
+- goal:
+  - 15
+  - 4
+  group_id: 0
+  name: agent193
+  start:
+  - 0
+  - 6
+- goal:
+  - 2
+  - 16
+  group_id: 2
+  name: agent194
+  start:
+  - 28
+  - 13
+- goal:
+  - 19
+  - 12
+  group_id: 0
+  name: agent195
+  start:
+  - 2
+  - 0
+- goal:
+  - 8
+  - 9
+  group_id: 1
+  name: agent196
+  start:
+  - 4
+  - 16
+- goal:
+  - 12
+  - 16
+  group_id: 2
+  name: agent197
+  start:
+  - 28
+  - 4
+- goal:
+  - 18
+  - 29
+  group_id: 3
+  name: agent198
+  start:
+  - 25
+  - 18
+- goal:
+  - 1
+  - 11
+  group_id: 1
+  name: agent199
+  start:
+  - 10
+  - 20
+- goal:
+  - 5
+  - 23
+  group_id: 2
+  name: agent200
+  start:
+  - 23
+  - 6
+- goal:
+  - 1
+  - 2
+  group_id: 1
+  name: agent201
+  start:
+  - 6
+  - 20
+- goal:
+  - 23
+  - 28
+  group_id: 3
+  name: agent202
+  start:
+  - 22
+  - 23
+- goal:
+  - 4
+  - 6
+  group_id: 1
+  name: agent203
+  start:
+  - 13
+  - 18
+- goal:
+  - 16
+  - 17
+  group_id: 3
+  name: agent204
+  start:
+  - 15
+  - 27
+- goal:
+  - 6
+  - 12
+  group_id: 1
+  name: agent205
+  start:
+  - 9
+  - 28
+- goal:
+  - 3
+  - 19
+  group_id: 2
+  name: agent206
+  start:
+  - 20
+  - 4
+- goal:
+  - 11
+  - 29
+  group_id: 2
+  name: agent207
+  start:
+  - 26
+  - 5
+- goal:
+  - 22
+  - 17
+  group_id: 3
+  name: agent208
+  start:
+  - 24
+  - 21
+- goal:
+  - 12
+  - 27
+  group_id: 2
+  name: agent209
+  start:
+  - 27
+  - 9
+- goal:
+  - 4
+  - 9
+  group_id: 1
+  name: agent210
+  start:
+  - 10
+  - 16
+- goal:
+  - 28
+  - 14
+  group_id: 0
+  name: agent211
+  start:
+  - 3
+  - 8
+- goal:
+  - 24
+  - 25
+  group_id: 3
+  name: agent212
+  start:
+  - 17
+  - 25
+- goal:
+  - 19
+  - 25
+  group_id: 3
+  name: agent213
+  start:
+  - 20
+  - 28
+- goal:
+  - 3
+  - 22
+  group_id: 2
+  name: agent214
+  start:
+  - 21
+  - 4
+- goal:
+  - 2
+  - 12
+  group_id: 1
+  name: agent215
+  start:
+  - 3
+  - 16
+- goal:
+  - 21
+  - 24
+  group_id: 3
+  name: agent216
+  start:
+  - 17
+  - 15
+- goal:
+  - 21
+  - 3
+  group_id: 0
+  name: agent217
+  start:
+  - 14
+  - 7
+- goal:
+  - 20
+  - 17
+  group_id: 3
+  name: agent218
+  start:
+  - 18
+  - 19
+- goal:
+  - 8
+  - 5
+  group_id: 1
+  name: agent219
+  start:
+  - 10
+  - 24
+- goal:
+  - 5
+  - 27
+  group_id: 2
+  name: agent220
+  start:
+  - 19
+  - 9
+- goal:
+  - 25
+  - 25
+  group_id: 3
+  name: agent221
+  start:
+  - 24
+  - 26
+- goal:
+  - 4
+  - 3
+  group_id: 1
+  name: agent222
+  start:
+  - 3
+  - 26
+- goal:
+  - 26
+  - 2
+  group_id: 0
+  name: agent223
+  start:
+  - 13
+  - 2
+- goal:
+  - 10
+  - 3
+  group_id: 1
+  name: agent224
+  start:
+  - 11
+  - 18
+- goal:
+  - 14
+  - 27
+  group_id: 2
+  name: agent225
+  start:
+  - 29
+  - 0
+- goal:
+  - 24
+  - 14
+  group_id: 0
+  name: agent226
+  start:
+  - 13
+  - 5
+- goal:
+  - 27
+  - 14
+  group_id: 0
+  name: agent227
+  start:
+  - 11
+  - 6
+- goal:
+  - 5
+  - 8
+  group_id: 1
+  name: agent228
+  start:
+  - 6
+  - 17
+- goal:
+  - 22
+  - 23
+  group_id: 3
+  name: agent229
+  start:
+  - 15
+  - 22
+- goal:
+  - 19
+  - 5
+  group_id: 0
+  name: agent230
+  start:
+  - 14
+  - 14
+- goal:
+  - 20
+  - 15
+  group_id: 3
+  name: agent231
+  start:
+  - 18
+  - 18
+- goal:
+  - 4
+  - 15
+  group_id: 2
+  name: agent232
+  start:
+  - 17
+  - 8
+- goal:
+  - 29
+  - 27
+  group_id: 3
+  name: agent233
+  start:
+  - 26
+  - 17
+- goal:
+  - 20
+  - 21
+  group_id: 3
+  name: agent234
+  start:
+  - 20
+  - 22
+- goal:
+  - 18
+  - 28
+  group_id: 3
+  name: agent235
+  start:
+  - 26
+  - 29
+- goal:
+  - 23
+  - 24
+  group_id: 3
+  name: agent236
+  start:
+  - 28
+  - 24
+- goal:
+  - 5
+  - 9
+  group_id: 1
+  name: agent237
+  start:
+  - 13
+  - 25
+- goal:
+  - 21
+  - 23
+  group_id: 3
+  name: agent238
+  start:
+  - 25
+  - 27
+- goal:
+  - 15
+  - 26
+  group_id: 3
+  name: agent239
+  start:
+  - 15
+  - 25
+- goal:
+  - 12
+  - 29
+  group_id: 2
+  name: agent240
+  start:
+  - 24
+  - 11
+- goal:
+  - 27
+  - 21
+  group_id: 3
+  name: agent241
+  start:
+  - 23
+  - 25
+- goal:
+  - 13
+  - 22
+  group_id: 2
+  name: agent242
+  start:
+  - 18
+  - 9
+- goal:
+  - 3
+  - 25
+  group_id: 2
+  name: agent243
+  start:
+  - 17
+  - 9
+- goal:
+  - 12
+  - 24
+  group_id: 2
+  name: agent244
+  start:
+  - 22
+  - 7
+- goal:
+  - 27
+  - 10
+  group_id: 0
+  name: agent245
+  start:
+  - 8
+  - 9
+- goal:
+  - 25
+  - 22
+  group_id: 3
+  name: agent246
+  start:
+  - 16
+  - 23
+- goal:
+  - 23
+  - 16
+  group_id: 3
+  name: agent247
+  start:
+  - 27
+  - 24
+- goal:
+  - 14
+  - 20
+  group_id: 2
+  name: agent248
+  start:
+  - 25
+  - 4
+- goal:
+  - 9
+  - 28
+  group_id: 2
+  name: agent249
+  start:
+  - 23
+  - 14
+- goal:
+  - 1
+  - 14
+  group_id: 1
+  name: agent250
+  start:
+  - 7
+  - 24
+- goal:
+  - 10
+  - 7
+  group_id: 1
+  name: agent251
+  start:
+  - 5
+  - 19
+- goal:
+  - 22
+  - 1
+  group_id: 0
+  name: agent252
+  start:
+  - 3
+  - 14
+- goal:
+  - 29
+  - 14
+  group_id: 0
+  name: agent253
+  start:
+  - 12
+  - 6
+- goal:
+  - 17
+  - 10
+  group_id: 0
+  name: agent254
+  start:
+  - 6
+  - 8
+- goal:
+  - 5
+  - 29
+  group_id: 2
+  name: agent255
+  start:
+  - 25
+  - 7
+- goal:
+  - 15
+  - 12
+  group_id: 0
+  name: agent256
+  start:
+  - 5
+  - 3
+- goal:
+  - 17
+  - 23
+  group_id: 3
+  name: agent257
+  start:
+  - 15
+  - 24
+- goal:
+  - 16
+  - 6
+  group_id: 0
+  name: agent258
+  start:
+  - 8
+  - 14
+- goal:
+  - 12
+  - 9
+  group_id: 1
+  name: agent259
+  start:
+  - 14
+  - 28
+- goal:
+  - 25
+  - 17
+  group_id: 3
+  name: agent260
+  start:
+  - 26
+  - 24
+- goal:
+  - 29
+  - 7
+  group_id: 0
+  name: agent261
+  start:
+  - 7
+  - 0
+- goal:
+  - 26
+  - 22
+  group_id: 3
+  name: agent262
+  start:
+  - 19
+  - 15
+- goal:
+  - 20
+  - 13
+  group_id: 0
+  name: agent263
+  start:
+  - 5
+  - 9
+- goal:
+  - 24
+  - 29
+  group_id: 3
+  name: agent264
+  start:
+  - 20
+  - 20
+- goal:
+  - 9
+  - 9
+  group_id: 1
+  name: agent265
+  start:
+  - 4
+  - 17
+- goal:
+  - 1
+  - 24
+  group_id: 2
+  name: agent266
+  start:
+  - 26
+  - 2
+- goal:
+  - 29
+  - 9
+  group_id: 0
+  name: agent267
+  start:
+  - 8
+  - 4
+- goal:
+  - 23
+  - 29
+  group_id: 3
+  name: agent268
+  start:
+  - 28
+  - 29
+- goal:
+  - 28
+  - 19
+  group_id: 3
+  name: agent269
+  start:
+  - 16
+  - 27
+- goal:
+  - 23
+  - 27
+  group_id: 3
+  name: agent270
+  start:
+  - 29
+  - 20
+- goal:
+  - 3
+  - 20
+  group_id: 2
+  name: agent271
+  start:
+  - 27
+  - 7
+- goal:
+  - 1
+  - 8
+  group_id: 1
+  name: agent272
+  start:
+  - 13
+  - 24
+- goal:
+  - 19
+  - 20
+  group_id: 3
+  name: agent273
+  start:
+  - 18
+  - 16
+- goal:
+  - 18
+  - 24
+  group_id: 3
+  name: agent274
+  start:
+  - 28
+  - 25
+- goal:
+  - 2
+  - 0
+  group_id: 1
+  name: agent275
+  start:
+  - 2
+  - 23
+- goal:
+  - 5
+  - 20
+  group_id: 2
+  name: agent276
+  start:
+  - 22
+  - 11
+- goal:
+  - 29
+  - 20
+  group_id: 3
+  name: agent277
+  start:
+  - 27
+  - 23
+- goal:
+  - 6
+  - 0
+  group_id: 1
+  name: agent278
+  start:
+  - 5
+  - 27
+- goal:
+  - 23
+  - 11
+  group_id: 0
+  name: agent279
+  start:
+  - 6
+  - 6
+- goal:
+  - 5
+  - 22
+  group_id: 2
+  name: agent280
+  start:
+  - 15
+  - 1
+- goal:
+  - 4
+  - 14
+  group_id: 1
+  name: agent281
+  start:
+  - 12
+  - 27
+- goal:
+  - 4
+  - 28
+  group_id: 2
+  name: agent282
+  start:
+  - 16
+  - 6
+- goal:
+  - 23
+  - 18
+  group_id: 3
+  name: agent283
+  start:
+  - 22
+  - 15
+- goal:
+  - 27
+  - 26
+  group_id: 3
+  name: agent284
+  start:
+  - 19
+  - 17
+- goal:
+  - 24
+  - 8
+  group_id: 0
+  name: agent285
+  start:
+  - 14
+  - 5
+- goal:
+  - 14
+  - 12
+  group_id: 1
+  name: agent286
+  start:
+  - 7
+  - 23
+- goal:
+  - 15
+  - 10
+  group_id: 0
+  name: agent287
+  start:
+  - 5
+  - 13
+- goal:
+  - 29
+  - 2
+  group_id: 0
+  name: agent288
+  start:
+  - 10
+  - 5
+- goal:
+  - 16
+  - 27
+  group_id: 3
+  name: agent289
+  start:
+  - 23
+  - 28
+- goal:
+  - 20
+  - 7
+  group_id: 0
+  name: agent290
+  start:
+  - 11
+  - 8
+- goal:
+  - 25
+  - 9
+  group_id: 0
+  name: agent291
+  start:
+  - 12
+  - 4
+- goal:
+  - 29
+  - 29
+  group_id: 3
+  name: agent292
+  start:
+  - 25
+  - 19
+- goal:
+  - 20
+  - 27
+  group_id: 3
+  name: agent293
+  start:
+  - 29
+  - 16
+- goal:
+  - 12
+  - 20
+  group_id: 2
+  name: agent294
+  start:
+  - 24
+  - 1
+- goal:
+  - 16
+  - 23
+  group_id: 3
+  name: agent295
+  start:
+  - 28
+  - 27
+- goal:
+  - 3
+  - 1
+  group_id: 1
+  name: agent296
+  start:
+  - 2
+  - 29
+- goal:
+  - 9
+  - 18
+  group_id: 2
+  name: agent297
+  start:
+  - 24
+  - 12
+- goal:
+  - 24
+  - 15
+  group_id: 3
+  name: agent298
+  start:
+  - 26
+  - 18
+- goal:
+  - 27
+  - 6
+  group_id: 0
+  name: agent299
+  start:
+  - 5
+  - 7
+map:
+  dimensions:
+  - 30
+  - 30
+  obstacles: []
